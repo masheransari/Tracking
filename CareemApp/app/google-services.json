@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "595430607618",
+    "firebase_url": "https://came-1d2dc.firebaseio.com",
+    "project_id": "came-1d2dc",
+    "storage_bucket": "came-1d2dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595430607618:android:129f07753990ae25",
+        "android_client_info": {
+          "package_name": "com.example.android.careemapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595430607618-qjajq74foa97sl62vn24u6l76umbvug1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.careemapp",
+            "certificate_hash": "3856151d80ea5640e76800f81b41248ebd6d45ab"
+          }
+        },
+        {
+          "client_id": "595430607618-bfim4kbl3bfndjfnpp0oofa3l6v3oacu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeVWQtybchozVNQvwPy00cYUGDMu7IX0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595430607618-bfim4kbl3bfndjfnpp0oofa3l6v3oacu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
